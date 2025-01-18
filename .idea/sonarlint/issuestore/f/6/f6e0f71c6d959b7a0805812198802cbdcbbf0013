@@ -1,0 +1,12 @@
+
+g	java:S112y"FDefine and throw a dedicated exception instead of using a generic one.(æ…­âüÿÿÿÿ8ŠòÈ²Ç2
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®Ïğ¤8ŒòÈ²Ç2
+G	java:S106&"+Replace this use of System.out by a logger.(¸“—‰8¡òÈ²Ç2
+L	java:S106'"+Replace this use of System.out by a logger.(üîŠÆşÿÿÿÿ8¡òÈ²Ç2
+G	java:S106/"+Replace this use of System.out by a logger.(âß®8¢òÈ²Ç2
+N
+java:S16020",Remove useless curly braces around statement(åÄö€ùÿÿÿÿ8¢òÈ²Ç2
+L	java:S1061"+Replace this use of System.out by a logger.(ÃÓé¶üÿÿÿÿ8£òÈ²Ç2
+G	java:S106v"+Replace this use of System.out by a logger.(½Õ¼Ô8«òÈ²Ç2
+R
+java:S1144Q"0Remove this unused private "getResource" method.(çˆ°Äşÿÿÿÿ8«òÈ²Ç2
